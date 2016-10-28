@@ -1,4 +1,4 @@
-# js-desktop-app
+# js-desktop--demo
 
 
 electron
